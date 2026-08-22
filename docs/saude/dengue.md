@@ -59,7 +59,7 @@ posteriormente a criação de faixas etárias para análise.
 ### Distribuição etária
 ![distribuicao_etaria.png](../../reports/figures/distribuicao_etaria.png)
 **Principais resultados**
-- Média mensal de casos: *(rode o `analise_exploratoria.py` e cole o número aqui)*
+- Média mensal de casos: 3627.35
 - Sazonalidade: pico em março-abril, vale em julho-setembro, em todos os anos
 - Sexo: leve predominância de casos no sexo feminino
 - Idade: concentração nas faixas de 18-44 anos
