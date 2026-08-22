@@ -53,14 +53,11 @@ posteriormente a criação de faixas etárias para análise.
 ## 6. Análise exploratória
 
 ### Casos mensais
-![Casos de dengue por mês](reports/figures/casos_mensais.png)
-
+![casos_mensais.png](../../reports/figures/casos_mensais.png)
 ### Casos por sexo
-![Casos de dengue por sexo](reports/figures/casos_mensais_por_sexo.png)
-
+![casos_mensais_por_sexo.png](../../reports/figures/casos_mensais_por_sexo.png)
 ### Distribuição etária
-![Distribuição etária dos casos](reports/figures/distribuicao_etaria.png)
-
+![distribuicao_etaria.png](../../reports/figures/distribuicao_etaria.png)
 **Principais resultados**
 - Média mensal de casos: *(rode o `analise_exploratoria.py` e cole o número aqui)*
 - Sazonalidade: pico em março-abril, vale em julho-setembro, em todos os anos
